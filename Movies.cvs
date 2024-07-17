@@ -1,0 +1,11 @@
+Genre,Runtime,UserAge,Liked
+Action,120,25,1
+Comedy,90,30,1
+Drama,150,45,0
+Action,135,20,1
+Comedy,100,50,0
+Drama,130,35,1
+Horror,110,22,0
+SciFi,140,28,1
+Romance,105,40,1
+Thriller,125,33,0
